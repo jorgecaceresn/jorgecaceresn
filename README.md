@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorgecaceresn
 - 👀 I’m interested in web development and NLP
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any kind web development proyect
+- 💞️ I’m looking to collaborate on any kind of web development proyect
 - 📫 How to reach me jorge.caceres.n@uni.pe
 
 <!---
